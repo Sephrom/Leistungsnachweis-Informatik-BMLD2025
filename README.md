@@ -9,7 +9,7 @@ Thema:
 Studenten:
 - Larissa Trüb      (trueblar@students.zhaw.ch)
 - Kaj Suter         (suterkaj@students.zhaw.ch)
-- Murugadas Harini  (murughar@students.zhaw.ch)
+- Harini Murugadas   (murughar@students.zhaw.ch)
 
 ---
 
