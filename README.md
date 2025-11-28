@@ -7,7 +7,8 @@ Thema: Sex ratio by age
 
 ---
 
-Studenten:
+##Studenten:
+
 - Larissa Trüb      (trueblar@students.zhaw.ch)
 - Kaj Suter         (suterkaj@students.zhaw.ch)
 - Harini Murugadas   (murughar@students.zhaw.ch)
