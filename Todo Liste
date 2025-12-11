@@ -1,7 +1,7 @@
 # Dinge die wirnoch zu erledigen haben.
 
 
-[] Implementieren der daten vom csv Datei über pandas in den Code
+
 
 [] Interprätieren der daten, grob anschauen welche frage stellungen wicklich bearbeitet werden können
 
@@ -17,17 +17,25 @@
 
 ---
 
-- Vergleich der länder welches land hat die meisten alten männer vs die meisten alten frauen, Spezifische events? ausgelöst durch kriege oder Gesundheit. vergleich von max 2 top und 2 bot.
 
-- 80 , 90, 100+
-wide, vergelichen zusammenfassen und ddann individueöll die top and bottom länder in pivot vergleichen.
+bsp china 
+basisiline mean implementieren bei vergleich über die jahre ( diagramm 2 )
+
+
+4... Visualisierung
+bsp letzte grafik 
+top/bot 5 länder im verlauf über die zeit mit dem Weltdurchschnitt als 'basisline' referenzlinie
+
+druchschnitt vs Median aufzeigen, berechnen
+
 
 ---
 
+Fragen für morgen:
 
+- inwelches kapitel gehüren unsere analyse eines einzelnen landes, (Berechnung oder interprätationoder kapitel 3.4 )
 
-
-
+- Grafik der rohdaten, sehen langweilg aus, sollen einfach so lassen, und in der interprätation schreiben das langweilig weil alles gut.
 
 
 
