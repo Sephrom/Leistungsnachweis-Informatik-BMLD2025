@@ -19,10 +19,11 @@ Sex ratio by age
 
 ## Fragestellung:
 
-- Wie verändert sich das Geschlechterverhältnis (Sex ratio) global mit zunehmendem alter?
-- Welche demographische Faktoren erklären den starken Rückgang der Sex Ratio in höheren Altersgruppen?
-- Wie hat sie die Sex Ratio bei den neugeborenenverändert?
-- Vergleich einzelner Ländern und zuweisen von Ereignissen die zu Veränderungen führen?
+- Wie entwickelt sich die Sex Ratio bei Neugeborenen weltweit (Anzahl männlicher Neugeborener pro 100 weibliche Neugeborene) über den betrachteten Zeitraum?
+
+- Welche Länder weisen in den letzten rund 70 Jahren die höchsten bzw. tiefsten durchschnittlichen Sex-Ratio-Werte bei Neugeborenen auf?
+
+- Wie verläuft die zeitliche Entwicklung der Sex Ratio in den Ländern mit den höchsten und tiefsten Werten, und welche Besonderheiten oder auffälligen Veränderungen lassen sich erkennen?
 
 
 ---
