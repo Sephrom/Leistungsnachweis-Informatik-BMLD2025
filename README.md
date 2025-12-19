@@ -19,11 +19,11 @@ Sex ratio by age
 
 ## Fragestellung:
 
-- Wie entwickelt sich die Sex Ratio bei Neugeborenen weltweit (Anzahl männlicher Neugeborener pro 100 weibliche Neugeborene) über den betrachteten Zeitraum?
+- Wie entwickelt sich die Sex ratio bei Neugeborenen weltweit (Anzahl männlicher Neugeborener pro 100 weibliche Neugeborene) über den betrachteten Zeitraum?
 
-- Welche Länder weisen in den letzten rund 70 Jahren die höchsten bzw. tiefsten durchschnittlichen Sex-Ratio-Werte bei Neugeborenen auf?
+- Welche Länder weisen im Zeitraum von 1950 bis 2023 die höchsten bzw. tiefsten durchschnittlichen Sex ratio Werte bei Neugeborenen auf?
 
-- Wie verläuft die zeitliche Entwicklung der Sex Ratio in den Ländern mit den höchsten und tiefsten Werten, und welche Besonderheiten oder auffälligen Veränderungen lassen sich erkennen?
+- Wie verläuft die zeitliche Entwicklung der Sex ratio in den Ländern mit den höchsten und tiefsten Werten und welche Besonderheiten oder auffälligen Veränderungen lassen sich erkennen?
 
 
 ---
